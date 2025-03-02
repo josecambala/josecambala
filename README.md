@@ -1,6 +1,6 @@
 #  José Cambala
 
-**`Desenvolvedor Front-end Iniciante`**
+**`Desenvolvedor Front-end Júnior`**
 
 Atualmente, Sou Estudante Universitário no Curso de **`Engenharia Informática & Sistemas de Informação.`**
 Estou começando a minha Jornada no Mundo do Desenvolvimento Web com foco em **`HTML5, CSS3, Javascript.`**
@@ -96,7 +96,7 @@ Algumas Tecnologias que Trabalharei dentro em Breve: **`React | Vue.js etc...`**
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=josecambala&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=josecambala&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=4" 
   />
 
 </p>
