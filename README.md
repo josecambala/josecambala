@@ -6,7 +6,6 @@
 - Quero Construir Websites e Aplicações Incríveis com Ótima Experiência para o Usuário.
 
 - AQUI ESTÃO ALGUMAS DAS TECNOLOGIAS QUE ESTOU APRENDENDO:
-- 
 - HTML5 | CSS3 | JAVASCRIPT
 - REACT | VUE.JS (EM BREVE)
 
