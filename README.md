@@ -1,9 +1,9 @@
 #  José Cambala
 
-**`Desenvolvedor Front-end Júnior`**
+**`Aspirante a Desenvolvedor Full-Stack Júnior`**
 
 Atualmente, Sou Estudante Universitário no Curso de **`Engenharia Informática & Sistemas de Informação.`**
-Estou começando a minha Jornada no Mundo do Desenvolvimento Web com foco em **`HTML5, CSS3, Javascript.`**
+Estou começando a minha Jornada no Mundo do Desenvolvimento Web com foco em **`HTML5, CSS3, Javascript e React`**
 Focado na Construção de Websites e Aplicações, com ótima experiência para o usuário.
 Algumas Tecnologias que Trabalharei dentro em Breve: **`React | Vue.js etc...`**
 
